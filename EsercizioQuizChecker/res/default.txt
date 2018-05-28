@@ -1,0 +1,5 @@
+problem 1, How much is 2 + 2?,4.0
+problem 2, How much is 5 / 2?,2.5
+problem 3, What is the square root of 4?,2.0
+problem 4, How much is 3 squared?,9.0
+problem 5, How much is 4 squared?,16.0
